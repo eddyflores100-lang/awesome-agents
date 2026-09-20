@@ -140,6 +140,8 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Atomic Agent](https://github.com/AtomicBot-ai/atomic-agent): Local-first CLI and TUI coding agent that runs open-weight models entirely on your machine via a llama.cpp fork. ![GitHub Repo stars](https://img.shields.io/github/stars/AtomicBot-ai/atomic-agent?style=social)
 - [Keen Code](https://github.com/mochow13/keen-code): Open-source, context-aware terminal coding agent written in Go with multiple providers, Turn Memory for controllable cross-turn tool-output retention, skill-driven MCP integration, subagents, Agent Skills, and hashline edits. ![GitHub Repo stars](https://img.shields.io/github/stars/mochow13/keen-code?style=social)
 
+- [MarketNow](https://github.com/alicelabs-llc/universal-trust-adapter): Free trust layer for AI agents on MCP: verify credentials (8 formats incl. JWT, W3C VC, X.509), scam-check domains, fingerprint tool definitions against tool-poisoning, search a 68k+ MCP server registry. Fail-closed, remote endpoint, no API keys. ![GitHub Repo stars](https://img.shields.io/github/stars/alicelabs-llc/universal-trust-adapter?style=social)
+
 ## Research
 
 - [GPT Researcher](https://github.com/assafelovic/gpt-researcher): GPT Researcher is an autonomous agent designed for comprehensive online research on a variety of tasks. ![GitHub Repo stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=social)
